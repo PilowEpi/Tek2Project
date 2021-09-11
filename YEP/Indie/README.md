@@ -6,4 +6,4 @@ manager.
 
 Groupe : 6 personnes
 
-<img src="./indie_gif.gif" alt="Indi Studio GIF" width="500" height="600">
+<img src="./indie_gif.gif" alt="Indi Studio GIF" width="600" height="350">
