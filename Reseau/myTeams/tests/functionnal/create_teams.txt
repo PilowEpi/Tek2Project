@@ -1,0 +1,4 @@
+/login "tester"
+/create "testTeams" "Test > all"
+/list
+/logout

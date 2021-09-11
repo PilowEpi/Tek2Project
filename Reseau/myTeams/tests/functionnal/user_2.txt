@@ -1,0 +1,14 @@
+/login "tester_2"
+/help
+/help
+/help
+/help
+/help
+/help
+/help
+/help
+/help
+/help
+/help
+/help
+/logout
