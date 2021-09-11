@@ -1,0 +1,17 @@
+in_01=1
+in_03=1
+in_05=1
+in_13=1
+in_11=1
+in_09=1
+display
+simulate
+display
+in_01=0
+in_03=0
+in_05=0
+in_13=0
+in_11=0
+in_09=0
+simulate
+display

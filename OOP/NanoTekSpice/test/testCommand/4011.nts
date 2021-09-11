@@ -1,0 +1,16 @@
+display
+simulate
+in_01=1
+in_02=1
+in_05=1
+in_06=0
+in_08=0
+in_09=1
+in_12=0
+in_13=0
+simulate
+display
+in_01=U
+in_02=1
+simulate
+display

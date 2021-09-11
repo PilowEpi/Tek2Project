@@ -1,0 +1,409 @@
+> > > > > > > > > > > > > tick: 1
+input(s):
+  enable: U
+  in_0: 0
+  in_1: 1
+  in_2: U
+  in_3: 0
+  in_4: 1
+  in_5: U
+  in_6: 0
+  in_7: 1
+  in_a: 0
+  in_b: 0
+  in_c: 0
+  inhibit: U
+output(s):
+  out_data: U
+> > > > > tick: 2
+input(s):
+  enable: U
+  in_0: 0
+  in_1: 1
+  in_2: U
+  in_3: 0
+  in_4: 1
+  in_5: U
+  in_6: 0
+  in_7: 1
+  in_a: 1
+  in_b: 0
+  in_c: 0
+  inhibit: U
+output(s):
+  out_data: U
+> > > > > tick: 3
+input(s):
+  enable: U
+  in_0: 0
+  in_1: 1
+  in_2: U
+  in_3: 0
+  in_4: 1
+  in_5: U
+  in_6: 0
+  in_7: 1
+  in_a: 0
+  in_b: 1
+  in_c: 0
+  inhibit: U
+output(s):
+  out_data: U
+> > > > > tick: 4
+input(s):
+  enable: U
+  in_0: 0
+  in_1: 1
+  in_2: U
+  in_3: 0
+  in_4: 1
+  in_5: U
+  in_6: 0
+  in_7: 1
+  in_a: 1
+  in_b: 1
+  in_c: 0
+  inhibit: U
+output(s):
+  out_data: U
+> > > > > tick: 5
+input(s):
+  enable: U
+  in_0: 0
+  in_1: 1
+  in_2: U
+  in_3: 0
+  in_4: 1
+  in_5: U
+  in_6: 0
+  in_7: 1
+  in_a: 0
+  in_b: 0
+  in_c: 1
+  inhibit: U
+output(s):
+  out_data: U
+> > > > > tick: 6
+input(s):
+  enable: U
+  in_0: 0
+  in_1: 1
+  in_2: U
+  in_3: 0
+  in_4: 1
+  in_5: U
+  in_6: 0
+  in_7: 1
+  in_a: 1
+  in_b: 0
+  in_c: 1
+  inhibit: U
+output(s):
+  out_data: U
+> > > > > tick: 7
+input(s):
+  enable: U
+  in_0: 0
+  in_1: 1
+  in_2: U
+  in_3: 0
+  in_4: 1
+  in_5: U
+  in_6: 0
+  in_7: 1
+  in_a: 0
+  in_b: 1
+  in_c: 1
+  inhibit: U
+output(s):
+  out_data: U
+> > > > > tick: 8
+input(s):
+  enable: U
+  in_0: 0
+  in_1: 1
+  in_2: U
+  in_3: 0
+  in_4: 1
+  in_5: U
+  in_6: 0
+  in_7: 1
+  in_a: 1
+  in_b: 1
+  in_c: 1
+  inhibit: U
+output(s):
+  out_data: U
+> > > > > > tick: 9
+input(s):
+  enable: U
+  in_0: 0
+  in_1: 1
+  in_2: U
+  in_3: 0
+  in_4: 1
+  in_5: U
+  in_6: 0
+  in_7: 1
+  in_a: 0
+  in_b: 0
+  in_c: 0
+  inhibit: 1
+output(s):
+  out_data: U
+> > > > > tick: 10
+input(s):
+  enable: U
+  in_0: 0
+  in_1: 1
+  in_2: U
+  in_3: 0
+  in_4: 1
+  in_5: U
+  in_6: 0
+  in_7: 1
+  in_a: 1
+  in_b: 0
+  in_c: 0
+  inhibit: 1
+output(s):
+  out_data: U
+> > > > > tick: 11
+input(s):
+  enable: U
+  in_0: 0
+  in_1: 1
+  in_2: U
+  in_3: 0
+  in_4: 1
+  in_5: U
+  in_6: 0
+  in_7: 1
+  in_a: 0
+  in_b: 1
+  in_c: 0
+  inhibit: 1
+output(s):
+  out_data: U
+> > > > > tick: 12
+input(s):
+  enable: U
+  in_0: 0
+  in_1: 1
+  in_2: U
+  in_3: 0
+  in_4: 1
+  in_5: U
+  in_6: 0
+  in_7: 1
+  in_a: 1
+  in_b: 1
+  in_c: 0
+  inhibit: 1
+output(s):
+  out_data: U
+> > > > > tick: 13
+input(s):
+  enable: U
+  in_0: 0
+  in_1: 1
+  in_2: U
+  in_3: 0
+  in_4: 1
+  in_5: U
+  in_6: 0
+  in_7: 1
+  in_a: 0
+  in_b: 0
+  in_c: 1
+  inhibit: 1
+output(s):
+  out_data: U
+> > > > > tick: 14
+input(s):
+  enable: U
+  in_0: 0
+  in_1: 1
+  in_2: U
+  in_3: 0
+  in_4: 1
+  in_5: U
+  in_6: 0
+  in_7: 1
+  in_a: 1
+  in_b: 0
+  in_c: 1
+  inhibit: 1
+output(s):
+  out_data: U
+> > > > > tick: 15
+input(s):
+  enable: U
+  in_0: 0
+  in_1: 1
+  in_2: U
+  in_3: 0
+  in_4: 1
+  in_5: U
+  in_6: 0
+  in_7: 1
+  in_a: 0
+  in_b: 1
+  in_c: 1
+  inhibit: 1
+output(s):
+  out_data: U
+> > > > > tick: 16
+input(s):
+  enable: U
+  in_0: 0
+  in_1: 1
+  in_2: U
+  in_3: 0
+  in_4: 1
+  in_5: U
+  in_6: 0
+  in_7: 1
+  in_a: 1
+  in_b: 1
+  in_c: 1
+  inhibit: 1
+output(s):
+  out_data: U
+> > > > > > > tick: 17
+input(s):
+  enable: 1
+  in_0: 0
+  in_1: 1
+  in_2: U
+  in_3: 0
+  in_4: 1
+  in_5: U
+  in_6: 0
+  in_7: 1
+  in_a: 0
+  in_b: 0
+  in_c: 0
+  inhibit: 0
+output(s):
+  out_data: U
+> > > > > tick: 18
+input(s):
+  enable: 1
+  in_0: 0
+  in_1: 1
+  in_2: U
+  in_3: 0
+  in_4: 1
+  in_5: U
+  in_6: 0
+  in_7: 1
+  in_a: 1
+  in_b: 0
+  in_c: 0
+  inhibit: 0
+output(s):
+  out_data: U
+> > > > > tick: 19
+input(s):
+  enable: 1
+  in_0: 0
+  in_1: 1
+  in_2: U
+  in_3: 0
+  in_4: 1
+  in_5: U
+  in_6: 0
+  in_7: 1
+  in_a: 0
+  in_b: 1
+  in_c: 0
+  inhibit: 0
+output(s):
+  out_data: U
+> > > > > tick: 20
+input(s):
+  enable: 1
+  in_0: 0
+  in_1: 1
+  in_2: U
+  in_3: 0
+  in_4: 1
+  in_5: U
+  in_6: 0
+  in_7: 1
+  in_a: 1
+  in_b: 1
+  in_c: 0
+  inhibit: 0
+output(s):
+  out_data: U
+> > > > > tick: 21
+input(s):
+  enable: 1
+  in_0: 0
+  in_1: 1
+  in_2: U
+  in_3: 0
+  in_4: 1
+  in_5: U
+  in_6: 0
+  in_7: 1
+  in_a: 0
+  in_b: 0
+  in_c: 1
+  inhibit: 0
+output(s):
+  out_data: U
+> > > > > tick: 22
+input(s):
+  enable: 1
+  in_0: 0
+  in_1: 1
+  in_2: U
+  in_3: 0
+  in_4: 1
+  in_5: U
+  in_6: 0
+  in_7: 1
+  in_a: 1
+  in_b: 0
+  in_c: 1
+  inhibit: 0
+output(s):
+  out_data: U
+> > > > > tick: 23
+input(s):
+  enable: 1
+  in_0: 0
+  in_1: 1
+  in_2: U
+  in_3: 0
+  in_4: 1
+  in_5: U
+  in_6: 0
+  in_7: 1
+  in_a: 0
+  in_b: 1
+  in_c: 1
+  inhibit: 0
+output(s):
+  out_data: U
+> > > > > tick: 24
+input(s):
+  enable: 1
+  in_0: 0
+  in_1: 1
+  in_2: U
+  in_3: 0
+  in_4: 1
+  in_5: U
+  in_6: 0
+  in_7: 1
+  in_a: 1
+  in_b: 1
+  in_c: 1
+  inhibit: 0
+output(s):
+  out_data: U
+> 

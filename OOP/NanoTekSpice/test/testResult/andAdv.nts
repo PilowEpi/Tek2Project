@@ -1,0 +1,37 @@
+> tick: 0
+input(s):
+  in_a: U
+  in_b: U
+  in_c: U
+  in_d: U
+  in_e: U
+output(s):
+  out: U
+> > > > > > > tick: 1
+input(s):
+  in_a: 1
+  in_b: 1
+  in_c: 1
+  in_d: 1
+  in_e: 1
+output(s):
+  out: 1
+> > > tick: 2
+input(s):
+  in_a: 0
+  in_b: 1
+  in_c: 1
+  in_d: 1
+  in_e: 1
+output(s):
+  out: 0
+> > > tick: 3
+input(s):
+  in_a: U
+  in_b: 1
+  in_c: 1
+  in_d: 1
+  in_e: 1
+output(s):
+  out: U
+> 
