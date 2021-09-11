@@ -1,0 +1,3 @@
+*.o
+BaseComponent.hpp
+RoverUnit*
