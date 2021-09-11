@@ -1,4 +1,9 @@
 # IndieStudio
 
-[![Build status](https://github.com/EpitechIT2020/B-YEP-400-LIL-4-1-indiestudio-maxime.deroulou/workflows/CMake/badge.svg)](https://github.com/EpitechIT2020/B-YEP-400-LIL-4-1-indiestudio-maxime.deroulou/actions)
-[![Discord notification](https://github.com/EpitechIT2020/B-YEP-400-LIL-4-1-indiestudio-maxime.deroulou/workflows/Notify%20On%20Discord/badge.svg)](https://github.com/EpitechIT2020/B-YEP-400-LIL-4-1-indiestudio-maxime.deroulou/actions)
+Création d'un bomberman en 3D (raylib, C++) avec de multiples
+contraintes : multijoueur, IA et d'un système Entity Component
+manager. 
+
+Groupe : 6 personnes
+
+<img src="./indie_gif.gif" alt="Indi Studio GIF" width="500" height="600">
