@@ -1,0 +1,9 @@
+*.o
+zappy_test_server
+zappy_server
+server/zappy_server
+gui/zappy_gui
+zappy_gui
+zappy_ai
+ai/zappy_ai
+.vscode/
